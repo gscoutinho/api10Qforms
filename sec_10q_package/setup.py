@@ -13,5 +13,5 @@ setup(
     author='Gabriel Coutinho',
     author_email='eng.gabrielcoutinho@outlook.com.br',
     description='Package to retrieve 10-Q form data from the SEC EDGAR database.',
-    url='https://github.com/yourusername/sec_10q_data',
+    url='https://github.com/gscoutinho/api10Qforms',
 )
