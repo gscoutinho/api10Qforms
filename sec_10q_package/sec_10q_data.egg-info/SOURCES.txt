@@ -1,0 +1,9 @@
+README.md
+setup.py
+sec_10q_data/__init__.py
+sec_10q_data/sec_10q_data.py
+sec_10q_data.egg-info/PKG-INFO
+sec_10q_data.egg-info/SOURCES.txt
+sec_10q_data.egg-info/dependency_links.txt
+sec_10q_data.egg-info/requires.txt
+sec_10q_data.egg-info/top_level.txt
